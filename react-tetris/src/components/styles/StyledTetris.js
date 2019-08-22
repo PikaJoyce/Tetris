@@ -8,7 +8,7 @@ export const StyledTetrisWrapper = styled.div`
   background: url(${bgImage}) #000;
   background-size: cover;
   overflow: hidden;
-`
+`;
 
 export const StyledTetris = styled.div`
   display: flex;
@@ -18,9 +18,9 @@ export const StyledTetris = styled.div`
   max-width: 900px;
 
   aside {
-    width: 100%
+    width: 100%;
     max-width: 200px;
     display: block;
-    padding: 0 20px
+    padding: 0 20px;
   }
-`
+`;

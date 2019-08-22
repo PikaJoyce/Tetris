@@ -7,7 +7,7 @@ const Stage = ({ stage }) => (
     {
       stage.map(row =>
         row.map((cell, x) =>
-          <Cell key={x} cell={cell[0]} />
+          <Cell key={x} type={cell[0]} />
         )
       )
     }
