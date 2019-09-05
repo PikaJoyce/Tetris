@@ -8,7 +8,6 @@ import Display from './Display'
 import StartButton from './StartButton'
 
 const Tetris = () => {
-
   return (
     <StyledTetrisWrapper>
       <StyledTetris>
