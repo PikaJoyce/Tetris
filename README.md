@@ -1,3 +1,9 @@
+# Tetris
+
+## About this project 
+I created a tetris using React and the new hooks feature. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
