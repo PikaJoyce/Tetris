@@ -2,7 +2,7 @@
   "name": "react-tetris",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://pikajoyce.github.io/Tetris",
+  "homepage": "https://pikajoyce.github.io/Tetris/",
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
